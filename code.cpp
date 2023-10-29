@@ -153,7 +153,7 @@ cin>>a;
 if(a==1)
 {
 total=0;
-cout<<"All record is deleted..!!"<<endl;
+cout<<"All record is deleted"<<endl;
 }
 else
 {
@@ -161,7 +161,7 @@ cout<<"Please Press 1 to Delete All Record"<<endl;
 }
 }
 }
-int main() //main function, execution of program starts from here
+int main() // this is our main function
 {
 int value;
 while(true) //always in Loop
